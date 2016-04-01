@@ -1,0 +1,5 @@
+MotorRolling/
+lmdb*/
+cifar10*/
+*.caffemodel
+*.solverstate
